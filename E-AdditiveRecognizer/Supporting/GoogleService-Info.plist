@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>499800673813-r4lnrakmm08ggrr96enf7tnfh3p0023d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.499800673813-r4lnrakmm08ggrr96enf7tnfh3p0023d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuvIu7M-Jt2l3TCt_HMffhizkdiKIlMNw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>499800673813</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vitalySubbotin.TextRecognizer</string>
+	<key>PROJECT_ID</key>
+	<string>textrecognizer-1f16b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>textrecognizer-1f16b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:499800673813:ios:4396ed8e1070aecb4b881c</string>
+	<key>DATABASE_URL</key>
+	<string>https://textrecognizer-1f16b.firebaseio.com</string>
+</dict>
+</plist>
