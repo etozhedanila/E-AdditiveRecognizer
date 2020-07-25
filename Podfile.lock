@@ -117,7 +117,7 @@ DEPENDENCIES:
   - Firebase/MLVisionTextModel
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Firebase
     - FirebaseAnalytics
     - FirebaseCore
@@ -157,6 +157,6 @@ SPEC CHECKSUMS:
   nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
   Protobuf: 1097ca58584c8d9be81bfbf2c5ff5975648dd87a
 
-PODFILE CHECKSUM: f1a78c3be0e894d6e90453cb6cefb49c163f5870
+PODFILE CHECKSUM: 908a8cd2a4022577128bbfbaca978bb1670e8f3b
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.4
